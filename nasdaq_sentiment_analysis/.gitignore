@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+dist/
+build/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
